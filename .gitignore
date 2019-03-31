@@ -114,3 +114,5 @@ Tools/ssl/win32
 .vscode/
 gmon.out
 .mypy_cache/
+.project
+.cproject
